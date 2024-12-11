@@ -1,6 +1,8 @@
 streamlit
 pandas
 datetime
-googleapiclient.discovery 
+googleapiclient.discovery-24.0 
 google_auth_oauthlib.flow
 os
+
+
